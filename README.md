@@ -13,7 +13,7 @@ And here is a list of things I love to do but I dont have things to demo! (I gue
 Here is a list of things I want to do:
 - 🌱 Create a coding blog explaining cool animations and how to build them!
 - 🎨 Showcase my love for design on [Dribble.com](https://dribbble.com/)
-- 🎸 I love Music! And that's why I want to build my on DAW on the Web (I have a bachelor in Sound Engineering)
+- 🎸 I love Music! I want to build a DAW for the Web (I have a bachelor in Sound Engineering)
 
 
 And here I would list all my side projects. (If I only finish one!)
