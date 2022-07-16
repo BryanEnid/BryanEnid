@@ -19,11 +19,13 @@ And here I would list all my side projects. (If I only finish one!)
 
 ![Screenshot 2022-07-16 014233](https://user-images.githubusercontent.com/30734480/179341680-12aa5aa6-5ce8-4093-80a9-3aab7531ed43.png)
 
-In my defense, I have help so many students to achieve their goals, that I have not had the time to build stuff! 
-(I guess I should do a youtube channel).
+> In my defense, I have help so many students to achieve their goals, that I have not had the time to build stuff! 
+>
+> (I guess I should do a youtube channel).
+
 
 Well, anyways... and here's the list of incomplete projects: 😭
-- 📝 React Native Inspector!
+- 📝 React Native Inspector! ([Repo](https://github.com/BryanEnid/React-Native-Logger))
 
 
 
