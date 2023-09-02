@@ -1,43 +1,31 @@
-### Hi there, I'm Bryan! (Bri for friends) 👋
+## Hello, I'm Bryan (or Bri for friends)! 👋
 
-I'm a self-taught web developer 😎
-- 🧑‍💻 Working at [EmployBridge](https://www.employbridge.com/) as a **ReactJS** front end developer
-- 🆘 I love helping others, so I'm working on an amazing project called [Observe](https://www.lawrencecheniv.com/design1/observe)! 🔭
+I'm a self-taught web developer with a passion for creating exceptional web and mobile experiences. Here's a bit about what I'm up to:
 
+### Professional Highlights:
+- 🧑‍💻 I'm currently a ReactJS front-end developer at [EmployBridge](https://www.employbridge.com/), where I'm part of an exciting team working on cutting-edge projects.
 
-And here is a list of things I love to do but I dont have things to demo! (I guess is my To-Do list now 🤔)
-- 📲 React Native Animations!
-- 📈 Create desktop/phone productivy apps (React Native/Electron)
+- 🆘 I'm also the creator of [Observe](https://www.lawrencecheniv.com/design1/observe), a project that reflects my love for helping others by solving real-world challenges. 
 
+### Interests and Aspirations:
+Here are some areas that fascinate me, along with what I'm excited to explore in the future:
 
-Here is a list of things I want to do:
-- 🌱 Create a coding blog explaining how to create cool animations and th elogic behind them.
-- 🎨 Showcase my love for design on [Dribble.com](https://dribbble.com/)
-- 🎸 I have a bachelor in Sound Engineering and I create music! I want to build a DAW for the Web compatible with native plugins
+- 📲 **React Native Animations**: I'm passionate about mastering React Native animations to create stunning mobile experiences.
 
+- 📈 **Productivity Apps**: I enjoy crafting desktop and mobile productivity applications using technologies like React Native and Electron.
 
-And here I would list all my side projects. (If I only finish one!)
+- 🌱 **Sharing Knowledge**: I'm planning to launch a coding blog, where I'll delve into the intricacies of creating captivating animations and the underlying logic.
+
+- 🎨 **Design Enthusiast**: I'm eager to showcase my design skills on [Dribbble.com](https://dribbble.com/), sharing my creative vision with the world.
+
+- 🎸 **Music and Sound Engineering**: With a background in Sound Engineering, I'm on a mission to build a web-based DAW (Digital Audio Workstation) compatible with native plugins.
+
+### Ongoing and Future Projects:
+I'm actively working on a variety of side projects, each with its unique challenges and innovations. Stay tuned for updates on these exciting ventures!
 
 ![Screenshot 2022-07-16 014233](https://user-images.githubusercontent.com/30734480/179341680-12aa5aa6-5ce8-4093-80a9-3aab7531ed43.png)
 
+### Incomplete Projects:
+In the world of development, incomplete projects are part of the journey. One project I'm working on is the **React Native Inspector**. You can find it on my [GitHub repository](https://github.com/BryanEnid/React-Native-Logger).
 
-Well, anyways... and here's the list of incomplete projects: 😭
-- 📝 React Native Inspector! ([Repo](https://github.com/BryanEnid/React-Native-Logger))
-
-
-
-
-<!--
-**BryanEnid/BryanEnid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by, and feel free to explore my repositories. Let's connect if you share similar interests or if you're up for some exciting collaborations!
