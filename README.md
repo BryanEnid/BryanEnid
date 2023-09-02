@@ -20,12 +20,9 @@ Here are some areas that fascinate me, along with what I'm excited to explore in
 
 - 🎸 **Music and Sound Engineering**: With a background in Sound Engineering, I'm on a mission to build a web-based DAW (Digital Audio Workstation) compatible with native plugins.
 
-### Ongoing and Future Projects:
-I'm actively working on a variety of side projects, each with its unique challenges and innovations. Stay tuned for updates on these exciting ventures!
-
-![Screenshot 2022-07-16 014233](https://user-images.githubusercontent.com/30734480/179341680-12aa5aa6-5ce8-4093-80a9-3aab7531ed43.png)
-
 ### Incomplete Projects:
-In the world of development, incomplete projects are part of the journey. One project I'm working on is the **React Native Inspector**. You can find it on my [GitHub repository](https://github.com/BryanEnid/React-Native-Logger).
+In the world of development, incomplete projects are part of the journey. 
 
-Thanks for stopping by, and feel free to explore my repositories. Let's connect if you share similar interests or if you're up for some exciting collaborations!
+- One project I'm working on is the **React Native Inspector**. You can find it on my [GitHub repository](https://github.com/BryanEnid/React-Native-Logger).
+
+
